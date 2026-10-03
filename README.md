@@ -1,12 +1,14 @@
 # Hi, I'm Hari 👋
 
-I work in a shipyard and I write code, and I'm trying to get good at both.
+I'm a shipbuilder with some hands-on experience in basic ship design, and I write code.
+I'm trying to get good at both.
 
 ## ⚓ In the shipyard
 
 Ships are some of the biggest and most complicated things people build. Steel plates, welds,
 pipes, cables and thousands of parts all have to come together in the right order, to the right
-tolerance, on schedule. Working on that every day has taught me:
+tolerance, on schedule. My work is building ships, and I've also done some basic design work, which helps
+me see how a ship goes from drawing to steel. Along the way I've learned:
 
 - **Respect for details.** One small mistake in a drawing or a measurement can cost days later on.
 - **Thinking in systems.** A hull, its machinery and its piping only work as one connected whole.
